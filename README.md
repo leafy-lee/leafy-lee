@@ -1,8 +1,18 @@
-- 👋 Hi, I’m @leafy-lee
+- 👋 Hi, I’m @leafy-lee :innocent:
 - 👀 I’m interested in CS and Mathematics
-- 🌱 I’m currently learning Image synthesis and generation
-- 💞️ I’m looking to collaborate on Python
+- 🌱 I’m currently learning Image generation and coding
 - 📫 How to reach me liyifeieric@outlook.com
+
+**Maintaining**
+
+- [SSwin Transformer](https://github.com/leafy-lee/E-commercial-dataset)![star](https://img.shields.io/github/stars/leafy-lee/E-commercial-dataset?style=social)
+- [Key Book](https://github.com/datawhalechina/key-book) ![star](https://img.shields.io/github/stars/datawhalechina/key-book?style=social)
+- ...
+
+**Contributing**
+
+- [Dive into CV(PyTorch)](https://github.com/datawhalechina/dive-into-cv-pytorch) ![star](https://img.shields.io/github/stars/datawhalechina/dive-into-cv-pytorch?style=social)
+
 
 <!---
 leafy-lee/leafy-lee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
