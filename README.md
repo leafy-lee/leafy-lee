@@ -8,6 +8,7 @@
 
 - [SSwin Transformer](https://github.com/leafy-lee/E-commercial-dataset)![star](https://img.shields.io/github/stars/leafy-lee/E-commercial-dataset?style=social) Does text attract attention on e-commerce images: A novel saliency prediction dataset and method (CVPR2022)
 - [Key Book](https://github.com/datawhalechina/key-book) ![star](https://img.shields.io/github/stars/datawhalechina/key-book?style=social)
+- [Digital Image Processing Assignment](https://github.com/leafy-lee/Digital-Assignment) ![star](https://img.shields.io/github/stars/leafy-lee/Digital-Assignment?style=social) Coursework of Digital Image Processing
 
 **Contributing**
 
