@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @leafy-lee. 
-- :innocent: I'm a first-year postgraduate
+- :innocent: I'm a second-year postgraduate
 - 👀 I’m interested in CS and Mathematics
-- 🌱 I’m currently learning Image generation and coding
-- 📫 How to reach me liyifeieric@outlook.com
+- 🌱 I’m currently learning Image generation and Deep learning architecture.
+- 📫 How to reach me tiberius-lee@outlook.com
 
 **Maintaining**
 
