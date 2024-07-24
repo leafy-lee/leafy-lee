@@ -12,6 +12,7 @@
 
 **Contributing**
 
+- [FLAML](https://github.com/microsoft/FLAML) ![star](https://img.shields.io/github/stars/microsoft/FLAML?style=social)
 - [Dive into CV(PyTorch)](https://github.com/datawhalechina/dive-into-cv-pytorch) ![star](https://img.shields.io/github/stars/datawhalechina/dive-into-cv-pytorch?style=social)
 
 
